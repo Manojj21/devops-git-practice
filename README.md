@@ -7,3 +7,5 @@ This project is for learning Git and DevOps workflows.
 - Linux
 - Bash
 - AWS
+- CI/CD
+-BASH scripting
