@@ -1,7 +1,3 @@
-##Linux
-<<<<<<< HEAD
-Linux is foundation for Devops
-=======
-Linux us essential for DevOps engineer
->>>>>>> feature-linux
+## AWS
 
+AWS provides cloud infrastructure that can be managed and automated using DevOps practices.
